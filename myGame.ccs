@@ -1,0 +1,20 @@
+<Solution>
+  <PropertyGroup Name="myGame" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="laomi">
+          <Image Name="panda01.jpg" />
+          <Image Name="panda02.jpg" />
+          <Image Name="panda03.jpg" />
+          <Image Name="panda04.jpg" />
+          <Image Name="panda05.jpg" />
+        </Folder>
+        <Project Name="aLaomiLayer.csd" Type="Layer" />
+        <Project Name="aLaomiScene.csd" Type="Scene" />
+        <Image Name="HelloWorld.png" />
+        <Project Name="MainScene.csd" Type="Scene" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
